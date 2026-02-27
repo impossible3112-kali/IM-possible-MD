@@ -1,10 +1,10 @@
 const settings = {
   packname: '𝐉ᴜɴᴇ 𝐌ᴅ',
   author: 'suprem',
-  botName: "𝐉ᴜɴᴇ 𝐌ᴅ",
-  botOwner: 'Suprem', // Your name
-  ownerNumber: '254798570132', //Set your number here without + symbol.
-  giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
+  botName: "Deekaytee 𝐌ᴅ",
+  botOwner: 'Deekaytee', // Your name
+  ownerNumber: '27681866256', //Set your number here without + symbol.
+  giphyApiKey: 'KnightBot!H4sIAAAAAAAAA5VUyY7iSBD9l7wWaryAF6SSxhs2i1lsMNijPiR2Ymd5ncw0YFr8+8hUV3cfZnpqbrmEXrx48SK+garGFC1QBybfQEPwBTLUH1nXIDABens+IwIGIIEMggkYrc/I1KLouMDmORpBn261ZO3jg+BeAzc7hd2MhPuTE4jhK3gMQNOeChz/BjBYvTTrumSuHCnm/W3bhZmWWH68uatLc0HWgW3dLa+GiUBfwaNHhJjgKrWaDJWIwGKBug3E5HP0qZ1FnIvSdNkgmp48eam2sBJNlZM0tfDmATmOrFuOZgf6OfrmUfIuqyx3uDXad0ToxOSNrV4CydeHln/fyb4peYmX5Dr3Tp/itELJLEEVw6z7tO4vG1XbcVzb3kIsH7KXQLYuZYdlUVIWwmj1lxCKhoyX8cxWPkecDsfTysw3NZ61nrIqlPzgcs2B8EWYiwxPS/Fon6DkWVb8K/EN+fBK/n90jzdWmHmKfRu3yygWRzzOLi+tdjVNcp8LDcuXb6Yhk3BRuJ+jL77JMW7nDbkXo5Ld3ZERHZf+UuOvOkpz1yn/Gm5OyFrnfPqTPmQt+R1Lca5M2b1VceV1NHnJnM7UjeOZugvdjJlZmtPl6hxshCrKa6afBGzYPhSHXXcdW3VzzxxLrRZyGhVXxo93+HzL4dZMX58V5aibJWDCPwaAoBRTRiDDddW/CRw3ADC5+CgmiD3lBU1XBsqCDKVtccx0Yc+fxm+uWx/TRFVZsOtyR3D0a4g6LX0FA9CQOkaUosTBlNWkcxGlMEUUTP78OgAVurH3xvXpRH4AzphQtq/apqhh8tHVj08Yx3VbMb+rYqM/IAIm3M9nxBiuUtrr2FaQxBm+ICODjILJGRYU/agQEZSACSMt+jG1Rp30wi+d0FCXuzEYgPLZEJyACRBkSeEVSRLG0oTn/qBfrj0qbJovFWJgAIpnFC+MRVnlBE5ROXE86iP7j8cPgj1eghjEBQUTYGwk6cJdt53bOvdtGBq+pi00rRfto6APZ7wrL3hbPdi7p2ixQOnCOW0reiiCVVqUtr9UOzGzr3CejJcJ3v8TSL8jQ7Ly12t/qp0vmkArdDmYomxztThbHCLde5uSUWmc1zyyl1FUrqeRJKOgtayS8MSBRaIdHJKlJ0WxibjiYYG3kd7baAASdMEx+jVZ6DQvFl3bab6pN21h35OIj6br0Gj3/Npw56gTCR1xJ7+oGlNCtzKkrj3kZZ0rPVtO27my0m/WaDh0w9xumu1UrtYfnn3OTPF9V+Gnm/pW9dczRs/Rr2DfwP9s3Tvv3mDcY/ALxPdd8i/zqCf5XgsC0xZ8XNVGJnBzedoEu3AeZTkexmzkURsfkS+GBXg8vg5AU0B2rkkJJgBWCalxAgaA1G3v2Fl1rn+TzNBmM32b+n3hBaRM+zkFO1wiymDZgAkvy4LAywonvUdtSN04kGb99vDUSFTB42+QWKZqUwcAAA==',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
   version: "2.0.6",
